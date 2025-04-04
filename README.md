@@ -1,5 +1,7 @@
 # Bank Marketing Term Deposit Prediction
 
+### Link to Jupyter Notebook: https://github.com/ylanjewar/bank_marketing/blob/main/Module%2017%20Practical%20application.ipynb
+
 ## Project Overview
 
 This project analyzes a direct marketing campaign dataset from a Portuguese bank to predict whether a client will subscribe to a term deposit. The dataset includes client demographics, contact details, campaign-related variables, and socio-economic indicators.
